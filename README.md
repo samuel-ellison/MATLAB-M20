@@ -6,8 +6,6 @@ All seven homework assignments with main scripts and required functions are with
 
 This is NOT to be used for future students trying to complete the class. The purpose is to backup my work and for fututre reference.
 
-Scores on each assignment are shown below:
-
 Homework 1:				 100/100
 
 Homework 2:				  94/100
