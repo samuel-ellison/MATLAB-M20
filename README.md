@@ -3,6 +3,7 @@ C&amp;EE M20 - Introduction to Computer Programming With MATLAB - UCLA 2019
 Professor Edward Gao
 
 All seven homework assignments with main scripts and required functions are within folders.
+This is NOT to be used for future students trying to complete the class. The purpose is to backup my work and for fututre reference.
 
 Scores on each assignment are shown below:
 
