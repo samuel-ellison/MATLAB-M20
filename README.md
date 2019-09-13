@@ -7,10 +7,16 @@ All seven homework assignments with main scripts and required functions are with
 Scores on each assignment are shown below:
 
 Homework 1:				 100/100
+
 Homework 2:				  94/100
+
 Homework 3:				 100/100
+
 Homework 4:				 100/100
+
 Homework 5:				 100/100
+
 Homework 6:				97.5/100
+
 Final Project:		 100/100
 
